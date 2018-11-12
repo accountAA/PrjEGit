@@ -6,6 +6,7 @@ public abstract class Test {
 		System.out.println("123456");
 		System.out.println("456");
 		
+		System.out.println("789");
 	}
 
 }
