@@ -1,0 +1,10 @@
+package com.x1amu.test;
+
+public abstract class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
